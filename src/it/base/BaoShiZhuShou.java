@@ -3,7 +3,9 @@ package it.base;
 import java.util.Scanner;
 
 public class BaoShiZhuShou {
-	static String eng[]={"zero","one","two","three","four","five","six","seven","eight","nine","ten","eleven","twelve","thirteen","fourteen","fifteen","sixteen","seventeen","eighteen","nineteen","twenty","thirty","forty","fifty"};
+	static String eng[]={"zero","one","two","three","four","five","six","seven",
+			"eight","nine","ten","eleven","twelve","thirteen","fourteen","fifteen",
+			"sixteen","seventeen","eighteen","nineteen","twenty","thirty","forty","fifty"};
 	static int m;
 	static int h;
 	static String r="o'clock";

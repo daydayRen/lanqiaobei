@@ -20,6 +20,7 @@ public class RuXueKaoShi{
 	static int[][] v;
 
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		Scanner scanner=new Scanner(System.in);
 		String[] sarr=scanner.nextLine().split(" ");
 		W=Integer.parseInt(sarr[0]);
